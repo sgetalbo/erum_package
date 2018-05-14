@@ -1,2 +1,7 @@
 # erum_package
-Package building workshop at eRum conference
+
+Monday 14th May 
+
+Package building workshop at eRum conference.
+
+
